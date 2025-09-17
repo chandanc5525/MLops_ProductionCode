@@ -3,29 +3,46 @@
 ---
 
 ## Objective
+
 ---
+
 The objective of this project is to provide a complete, hands-on learning experience in Machine Learning Operations (MLOps). The bootcamp guides learners through all critical stages of the ML lifecycle — from data ingestion and preprocessing to model deployment and monitoring in production environments.
+
 ---
+
 ## About the Bootcamp
+
 ---
+
 This bootcamp is structured to help individuals gain practical knowledge and implementation skills in MLOps, progressing from basic concepts to advanced production workflows. It includes modular code for each pipeline stage, use of version control, Docker for containerization, and CI/CD integration. The goal is to help learners understand how to build, deploy, monitor, and maintain ML systems efficiently.
+
 ---
+
 ## Bootcamp Name
+
 ---
+
 **MLOps_ProductionCode: Bootcamp from Basics to Advanced**
+
 ---
+
 ## Author
+
 ---
+
 **Your Name**  
+
 Chandan Chaudhari  
 GitHub: [https://github.com/chandanc5525]
 
 ---
+
 ## Project Structure
 
 ---
 
 ## Significance of Each Component
+
 
 | Path                        | Description |
 |-----------------------------|-------------|

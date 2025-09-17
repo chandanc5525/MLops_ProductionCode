@@ -30,18 +30,12 @@ This bootcamp is structured to help individuals gain practical knowledge and imp
 
 ---
 
-**Your Name**  
-
-Chandan Chaudhari  
+**Chandan Chaudhari**  
 GitHub: [https://github.com/chandanc5525]
 
 ---
 
-## Project Structure
-
----
-
-## Significance of Each Component
+## Significance of Each Component of Project Structure
 
 
 | Path                        | Description |
